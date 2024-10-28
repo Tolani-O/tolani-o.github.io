@@ -10,7 +10,8 @@ redirect_from:
 
 Hi! I am a Pittsburgh based Ph.D. student, jointly in the [Machine Learning](https://www.ml.cmu.edu/) Department and the [Statistics and Datascience](https://www.cmu.edu/dietrich/statistics-datascience/) Department at [Carnegie Mellon University](https://www.cmu.edu/) (CMU). 
 I am a member of the [NeuroStats](https://www.stat.cmu.edu/neurostats/) Research Group, and I am supervised by Prof. [Robert Kass](https://www.stat.cmu.edu/~kass/). I conduct research in Computational Neuroscience, with the broad aim of understanding the pathways by which different brain regions communicate with each other. 
-In addition to furthering scientific knowledge about the functioning of the brain, this research has applications in Brain-Computer Interfaces (BCI), for example, in decoding neural signals in neural prosthetics. I am also interested more broadly in the analysis of non-linear dynamical systems.
+In addition to furthering scientific knowledge about the functioning of the brain, this research has applications in Brain-Computer Interfaces (BCI), for example, in decoding neural signals in neural prosthetics. 
+I am also interested more broadly in building ML/AI tools that can learn in small data regimes, and from data with low signal-to-noise ratio.
 
 In the summer of 2024, I interned at Meta reality labs, where I developed AI for neuro-motor interface technology.
 In 2023, I worked as a Machine Learning Engineer for Performance Photo, where I developed computer vision models to support efficient indexing and querying of large-scale image databases. 
