@@ -2,6 +2,10 @@
 
 url: http://localhost:4000
 
+# Allow _plugins/*.rb to load locally (github-pages sets safe: true by default,
+# which blocks the Ruby 3.2+ shim in _plugins/ruby32_compat.rb).
+safe: false
+
 analytics:
   provider: false
 

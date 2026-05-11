@@ -1,22 +1,16 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=Qftb02kAAAAJ&hl=en&inst=3203679203499159833
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "Research"
+    url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-#
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-  - title: "CV"
+    url: /teaching/
+
+  - title: "Resume"
     url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/

@@ -1,3 +1,9 @@
 _site/
 /node_modules/
 .idea/
+.DS_Store
+.claude/
+Gemfile.lock.bak
+
+# Obsolete local shim from the pre-Jekyll-4 setup.
+_plugins/ruby32_compat.rb
